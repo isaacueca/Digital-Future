@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+	<category>
+		<number>1</number>
+		<name>Experience</name>
+	</category>
+	<category>
+		<number>2</number>
+		<name>Social</name>
+	</category>
+	<category>
+		<number>3</number>
+		<name>Information</name>
+	</category>
+	<category>
+		<number>4</number>
+		<name>Usability</name>
+	</category>
+	
+</categories>

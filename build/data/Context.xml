@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<context_map>
+	<context>
+		<id>0</id>
+		<name>Trends</name>
+		<color>0x3E294C</color>
+	</context>
+	<context>
+		<id>1</id>
+		<name>Govermental and political factors</name>
+		<color>0xEABD1D</color>
+	</context>
+	<context>
+		<id>2</id>
+		<name>User behaviour</name>
+		<color>0xD12827</color>
+	</context>
+	<context>
+		<id>3</id>
+		<name>Customer need</name>
+		<color>0xE33291</color>
+	</context>
+	<context>
+		<id>4</id>
+		<name>Economic climate</name>
+		<color>0x10835C</color>
+	</context>
+	<context>
+		<id>5</id>
+		<name>Uncertainties</name>
+		<color>0xA1B93A</color>
+	</context>
+	<context>
+		<id>6</id>
+		<name>Technological factors</name>
+		<color>0x43120E</color>
+	</context>
+	<context>
+		<id>7</id>
+		<name>Insights</name>
+		<color>0xF3D60D</color>
+	</context>
+</context_map>

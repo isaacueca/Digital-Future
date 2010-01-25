@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stickies>
+	<sticky>
+	    <id>1</id>
+	    <tagline>Online and offline worlds will blend toghether</tagline>
+	    <category>1</category>
+	    <context>2</context>
+	    <size>5</size>
+	</sticky>
+	
+	<sticky>
+	    <id>2</id>
+	    <tagline>Technology is integrated into life</tagline>
+	    <category>1</category>
+	    <context>0</context>
+	    <size>4</size>
+	</sticky>
+	
+	<sticky>
+	    <id>3</id>
+	    <tagline>Mobiles are becoming ubiquitous</tagline>
+	    <category>1</category>
+	    <context>0</context>
+	    <size>3</size>
+	</sticky>
+	
+	<sticky>
+	    <id>4</id>
+	    <tagline>Added layer of related experiences</tagline>
+	    <category>1</category>
+	    <context>0</context>
+	    <size>2</size>
+	</sticky>
+	
+	
+	<sticky>
+	    <id>5</id>
+	    <tagline>Augmented reality</tagline>
+	    <category>1</category>
+	    <context>0</context>
+	    <size>3</size>
+	</sticky>
+	
+	<sticky>
+	    <id>6</id>
+	    <tagline>Sharing real life experiences</tagline>
+	    <category>1</category>
+	    <context>2</context>
+	    <size>4</size>
+	</sticky>
+	
+	<sticky>
+	    <id>7</id>
+	    <tagline>Tweens are hesitant to connect with strangers online</tagline>
+	    <category>2</category>
+	    <context>2</context>
+	    <size>1</size>
+	</sticky>
+	
+	<sticky>
+	    <id>8</id>
+	    <tagline>Oversharing</tagline>
+	    <category>2</category>
+	    <context>0</context>
+	    <size>3</size>
+	</sticky>
+	
+	<sticky>
+	    <id>9</id>
+	    <tagline>Feedback services</tagline>
+	    <category>2</category>
+	    <context>0</context>
+	    <size>1</size>
+	</sticky>
+	
+	<sticky>
+	    <id>10</id>
+	    <tagline>Sharing experiences and being part of a group</tagline>
+	    <category>2</category>
+	    <context>2</context>
+	    <size>4</size>
+	</sticky>
+	
+	<sticky>
+	    <id>11</id>
+	    <tagline>Real life social network</tagline>
+	    <category>2</category>
+	    <context>2</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>12</id>
+	    <tagline>Interest based groups instead of based on location</tagline>
+	    <category>2</category>
+	    <context>3</context>
+	    <size>3</size>
+	</sticky>
+	
+	<sticky>
+	    <id>13</id>
+	    <tagline>Fact = fiction</tagline>
+	    <category>2</category>
+	    <context>2</context>
+	    <size>1</size>
+	</sticky>
+	
+	<sticky>
+	    <id>14</id>
+	    <tagline>Microblogging is becoming a niche market</tagline>
+	    <category>2</category>
+	    <context>0</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>15</id>
+	    <tagline>Language barriers is disappearing</tagline>
+	    <category>2</category>
+	    <context>2</context>
+	    <size>1</size>
+	</sticky>
+	
+	<sticky>
+	    <id>16</id>
+	    <tagline>How much control do you have over your online identity?</tagline>
+	    <category>2</category>
+	    <context>5</context>
+	    <size>5</size>
+	</sticky>
+	
+	<sticky>
+	    <id>17</id>
+	    <tagline>Girls are more interested into technology</tagline>
+	    <category>2</category>
+	    <context>2</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>18</id>
+	    <tagline>Put trust in web services</tagline>
+	    <category>2</category>
+	    <context>2</context>
+	    <size>3</size>
+	</sticky>
+	
+	<sticky>
+	    <id>19</id>
+	    <tagline>Escapism into tecnology</tagline>
+	    <category>2</category>
+	    <context>3</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>20</id>
+	    <tagline>The need to communicate</tagline>
+	    <category>2</category>
+	    <context>3</context>
+	    <size>3</size>
+	</sticky>
+	
+	<sticky>
+	    <id>21</id>
+	    <tagline>Technology is becoming a bigger part of creativity</tagline>
+	    <category>4</category>
+	    <context>7</context>
+	    <size>3</size>
+	</sticky>
+	
+	<sticky>
+	    <id>22</id>
+	    <tagline>Elegance and simplicity and streamlined functionality</tagline>
+	    <category>4</category>
+	    <context>0</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>23</id>
+	    <tagline>People = filter</tagline>
+	    <category>4</category>
+	    <context>2</context>
+	    <size>1</size>
+	</sticky>
+	
+	<sticky>
+	    <id>24</id>
+	    <tagline>Focusing on a single task</tagline>
+	    <category>4</category>
+	    <context>2</context>
+	    <size>4</size>
+	</sticky>
+	
+	<sticky>
+	    <id>25</id>
+	    <tagline>Multitasking</tagline>
+	    <category>4</category>
+	    <context>2</context>
+	    <size>4</size>
+	</sticky>
+	
+	
+	<sticky>
+	    <id>26</id>
+	    <tagline>Users (re)define the products</tagline>
+	    <category>4</category>
+	    <context>0</context>
+	    <size>5</size>
+	</sticky>
+	
+	<sticky>
+	    <id>27</id>
+	    <tagline>Audience makes the brand</tagline>
+	    <category>4</category>
+	    <context>0</context>
+	    <size>5</size>
+	</sticky>
+	
+	<sticky>
+	    <id>28</id>
+	    <tagline>Service aggregation</tagline>
+	    <category>4</category>
+	    <context>0</context>
+	    <size>4</size>
+	</sticky>
+	
+	<sticky>
+	    <id>29</id>
+	    <tagline>Service prioritarization divided by needs</tagline>
+	    <category>4</category>
+	    <context>0</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>30</id>
+	    <tagline>Services merging and working closer together</tagline>
+	    <category>4</category>
+	    <context>0</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>31</id>
+	    <tagline>Digital product/application integration</tagline>
+	    <category>4</category>
+	    <context>0</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>32</id>
+	    <tagline>Semantic web</tagline>
+	    <category>3</category>
+	    <context>0</context>
+	    <size>5</size>
+	</sticky>
+	
+	<sticky>
+	    <id>33</id>
+	    <tagline>Info trough feeds and push</tagline>
+	    <category>3</category>
+	    <context>0</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>34</id>
+	    <tagline>Choice of medium - how do I do it best on which technology?</tagline>
+	    <category>3</category>
+	    <context>5</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>35</id>
+	    <tagline>Open source and API</tagline>
+	    <category>3</category>
+	    <context>6</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>36</id>
+	    <tagline>Cloud computing - remote server</tagline>
+	    <category>3</category>
+	    <context>6</context>
+	    <size>4</size>
+	</sticky>
+	
+	<sticky>
+	    <id>37</id>
+	    <tagline>Nanotechnology</tagline>
+	    <category>3</category>
+	    <context>6</context>
+	    <size>5</size>
+	</sticky>
+	
+	
+	<sticky>
+	    <id>38</id>
+	    <tagline>Google "knows"</tagline>
+	    <category>3</category>
+	    <context>5</context>
+	    <size>5</size>
+	</sticky>
+	
+	<sticky>
+	    <id>39</id>
+	    <tagline>Who searches the searchmen</tagline>
+	    <category>3</category>
+	    <context>5</context>
+	    <size>4</size>
+	</sticky>
+	
+	<sticky>
+	    <id>40</id>
+	    <tagline>Location awareness</tagline>
+	    <category>3</category>
+	    <context>0</context>
+	    <size>5</size>
+	</sticky>
+	
+	<sticky>
+	    <id>41</id>
+	    <tagline>Signals to noise ratio - how do I filter out the noise?</tagline>
+	    <category>3</category>
+	    <context>5</context>
+	    <size>3</size>
+	</sticky>
+	
+	<sticky>
+	    <id>42</id>
+	    <tagline>What will happen to (programming) language development</tagline>
+	    <category>3</category>
+	    <context>5</context>
+	    <size>1</size>
+	</sticky>
+	
+	<sticky>
+	    <id>43</id>
+	    <tagline>Overcoming traditional media trough transparency</tagline>
+	    <category>3</category>
+	    <context>0</context>
+	    <size>3</size>
+	</sticky>
+	
+	<sticky>
+	    <id>44</id>
+	    <tagline>Can advertising solve business problems?</tagline>
+	    <category>3</category>
+	    <context>5</context>
+	    <size>3</size>
+	</sticky>
+	
+	<sticky>
+	    <id>45</id>
+	    <tagline>How to make profit out of free?</tagline>
+	    <category>3</category>
+	    <context>5</context>
+	    <size>5</size>
+	</sticky>
+	
+	<sticky>
+	    <id>46</id>
+	    <tagline>Screens are not enough anymore - they are more obstacles than tools</tagline>
+	    <category>3</category>
+	    <context>7</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>47</id>
+	    <tagline>Brands don't compete with brands - but with real life and entertainment</tagline>
+	    <category>3</category>
+	    <context>7</context>
+	    <size>3</size>
+	</sticky>
+	
+	<sticky>
+	    <id>48</id>
+	    <tagline>Emphasis shifts towards connecting information ideas (remember not to remember</tagline>
+	    <category>3</category>
+	    <context>7</context>
+	    <size>3</size>
+	</sticky>
+	
+	<sticky>
+	    <id>49</id>
+	    <tagline>Developing countries are getting very affluent</tagline>
+	    <category>3</category>
+	    <context>7</context>
+	    <size>1</size>
+	</sticky>
+	
+	<sticky>
+	    <id>50</id>
+	    <tagline>Baby boom is yet to hit the Internet</tagline>
+	    <category>3</category>
+	    <context>7</context>
+	    <size>2</size>
+	</sticky>
+	
+	<sticky>
+	    <id>51</id>
+	    <tagline>Stop paying to much attention to the own part of the industry. Start looking at the others!</tagline>
+	    <category>3</category>
+	    <context>7</context>
+	    <size>4</size>
+	</sticky>
+	
+	<sticky>
+	    <id>52</id>
+	    <tagline>Technology is becoming more "human"</tagline>
+	    <category>3</category>
+	    <context>7</context>
+	    <size>4</size>
+	</sticky>
+</stickies>
